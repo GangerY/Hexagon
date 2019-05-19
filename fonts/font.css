@@ -1,0 +1,132 @@
+@font-face{
+    font-family: 'Lato-Black';
+    src: url('../fonts/lato/Lato-Black.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-BlackItalic';
+    src: url('../fonts/lato/Lato-BlackItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Bold';
+    src: url('../fonts/lato/Lato-Bold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-BoldItalic';
+    src: url('../fonts/lato/Lato-BoldItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Hairline';
+    src: url('../fonts/lato/Lato-Hairline.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-HairlineItalic';
+    src: url('../fonts/lato/Lato-HairlineItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Heavy';
+    src: url('../fonts/lato/Lato-Heavy.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-HeavyItalic';
+    src: url('../fonts/lato/Lato-HeavyItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Italic';
+    src: url('../fonts/lato/Lato-Italic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Light';
+    src: url('../fonts/lato/Lato-Light.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-LightItalic';
+    src: url('../fonts/lato/Lato-LightItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Medium';
+    src: url('../fonts/lato/Lato-Medium.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-MediumItalic';
+    src: url('../fonts/lato/Lato-MediumItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Regular';
+    src: url('../fonts/lato/Lato-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Semibold';
+    src: url('../fonts/lato/Lato-Semibold.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-SemiboldItalic';
+    src: url('../fonts/lato/Lato-SemiboldItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-Thin';
+    src: url('../fonts/lato/Lato-Thin.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Lato-ThinItalic';
+    src: url('../fonts/lato/Lato-ThinItalic.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Maven-Pro-Regular';
+    src: url('../fonts/mavenPro/Maven-Pro-Regular.otf');
+    font-weight: 400;
+    font-style: normal;
+}
